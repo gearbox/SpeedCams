@@ -11,6 +11,7 @@ Here is the list of the Road SpeedCams types that we support:
 - Red light monitoring cameras
 - Bus lane control cameras
 - Road marking cross monitoring
+- And many more...
 
 ### Support or Contact
 
