@@ -16,7 +16,7 @@ Here is the list of the Road SpeedCams types that we support:
 
 ### Support or Contact
 
-_Intersted?_
+_Interested?_
 
 Please contact our team and we’ll cook a special database flavour for your own ~~taste~~ device db format.
 
