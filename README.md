@@ -9,8 +9,9 @@ Here is the list of the Road SpeedCams types that we support:
 - **Average speed zones**
 - Fixed SpeedCams
 - Red light monitoring cameras
-- Bus lane control cameras
-- Road marking cross monitoring
+- Lane control cameras
+- Road police posts
+- Town entry points
 - And many more...
 
 ### Support or Contact
@@ -18,3 +19,5 @@ Here is the list of the Road SpeedCams types that we support:
 _Intersted?_
 
 Please contact our team and we’ll cook a special database flavour for your own ~~taste~~ device db format.
+Email: support@speedcamsdb.com
+Slack: speedcamsdb.slack.com Join to discuss anything here
