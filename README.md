@@ -1,6 +1,6 @@
 ## We are working hard to bring this site operating as soon as possible
 
-While we ar working on the front end, all the subscription services are working fine as usual, please do not worry
+While we are working on the front end, all the subscription services are working fine as usual, please do not worry
 
 ### We provide a full database of the road speedcams 
 
