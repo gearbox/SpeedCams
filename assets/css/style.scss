@@ -1,0 +1,11 @@
+---
+---
+@import "{{ jekyll-theme-slate }}";
+/* "{{ site.theme }}" = Your theme name */
+/* Eg: @import 'jekyll-theme-cayman'; */
+
+/* Your css rules goes after this */
+.page-header {
+    background: #191c20;
+}
+#forkme_banner {display: none;}
