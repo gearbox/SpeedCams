@@ -20,5 +20,5 @@ _Intersted?_
 
 Please contact our team and we’ll cook a special database flavour for your own ~~taste~~ device db format.
 
-Email: support@speedcamsdb.com  
+Email: [support@speedcamsdb.com](mailto:support@speedcamsdb.com)  
 Slack: speedcamsdb.slack.com [Join our workspace to discuss anything](https://join.slack.com/t/speedcamsdb/shared_invite/enQtNzI0Nzc1MTkyMDM1LWRjMGNlMDY3ZjY2MGI3Mjg1ZWQzZGEzMGYwY2EyODg2NWViMmU1ODk1NmZiYjE5M2ViZmM2ZjlmYzI5MDZiODU)
