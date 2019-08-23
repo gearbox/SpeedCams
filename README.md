@@ -11,12 +11,12 @@ Here is the list of the road speedcams types that we support:
 - Red light monitoring cameras
 - Lane control cameras
 - Road police posts
-- Town entry points
+- City entrance points
 - And many more...
 
 ### Support or Contact
 
-_Interested?_
+*_Interested?_*
 
 Please contact our team and we’ll cook a special database flavour for your own ~~taste~~ device db format.
 
