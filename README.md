@@ -6,9 +6,9 @@ While we are working on the front end, all the subscription services are working
 
 We have data about road SpeedCams all over the Russia and some other countries.
 Here is the list of the road speedcams types that we support:
-- **Average speed zones**
-- Fixed SpeedCams
 - Red light monitoring cameras
+- Fixed SpeedCams
+- **Average speed control zones**
 - Lane control cameras
 - Road police posts
 - City entrance points
