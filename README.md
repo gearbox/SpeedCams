@@ -4,7 +4,7 @@ While we are working on the front end, all the subscription services are working
 
 ### We provide a full database of the road speedcams 
 
-We have data about road SpeedCams all over the Russia and some other countries.
+We have data about road speedcams all over the Russia and some other countries.
 Here is the list of the road speedcams types that we support:
 - Red light monitoring cameras
 - Fixed SpeedCams
